@@ -1,25 +1,12 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Samwel+Muigai+Kariuki;Data+Science+Student+at+KCA+University;Data-driven+decision+maker!" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Samwel Muigai Kariuki
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samwel-Muigai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://linkedin.com/in/Samwel-Muigai"><img src="https://img.shields.io/badge/LinkedIn-Samwel_Muigai-0077B5?style=flat&logo=linkedin" /></a>
-  <a href="mailto:muigaisamwel17@gmail.com"><img src="https://img.shields.io/badge/Email-muigaisamwel17@gmail.com-D14836?style=flat&logo=gmail" /></a>
-</p>
+🎓 **Data Science Student** at **KCA University**  
+📊 Passionate about turning raw data into actionable insights.  
+✨ *"Data-driven decision making is the goal!"*
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 Data Science student at **KCA University**  
-📊 Turning data into stories and models into impact.  
-✨ *“Data-driven decision making is the goal!”*
-
----
-
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,72 +29,46 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Areas of Interest
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samwel-Muigai&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats in 3D
-
-<!-- Standard stats with a 3D-ish card theme -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samwel-Muigai&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samwel-Muigai&layout=compact&theme=radical" />
-</p>
-
-<!-- Streak stats (flame effect) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samwel-Muigai&theme=radical&hide_border=true" alt="Streak" />
-</p>
-
-<!-- 3D Contribution Cube (generated via action) -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Cube" width="600" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samwel-Muigai/Samwel-Muigai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🚀 Interests & Learning
-
-- 🧠 Natural Language Processing
-- 🤖 Machine Learning & Deep Learning
-- 🧪 Model building & evaluation
-- 📈 Data visualisation & storytelling
+- 🧠 Natural Language Processing (NLP)
+- 🤖 Machine Learning & Artificial Intelligence
+- 🧪 Model Creation & Experimentation
+- 📈 Data Storytelling & Visualization
 
 ---
 
 ## 📌 Featured Project
 
-### 🩺 Oncology Command Analysis  
-*Python · Pandas · Matplotlib · Seaborn*  
-Analysis of cancer patient data to identify trends, patient demographics and provide actionable recommendations for oncology departments.
+### 🩺 Oncology Command Analysis
+*Python · Pandas · Matplotlib · Seaborn*
 
-🔗 [View on GitHub](https://github.com/Samwel-Muigai?tab=repositories)
+An analytical project that examines cancer patient data to identify trends, patient counts, and provide data-driven recommendations. The goal is to support oncology departments in understanding patient distribution and resource planning.
 
----
-
-## 📬 Connect With Me
-
-- 📧 [muigaisamwel17@gmail.com](mailto:muigaisamwel17@gmail.com)
-- 💼 [LinkedIn/Samwel-Muigai](https://linkedin.com/in/Samwel-Muigai)
-- 🐙 [GitHub/Samwel-Muigai](https://github.com/Samwel-Muigai)
+🔗 [View Project Repository](https://github.com/Samwel-Muigai?tab=repositories)
 
 ---
 
-<p align="center">💡 Open to collaborate on data science & machine learning projects!</p>
+## 📊 GitHub Stats
 
-<!-- 3D divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samwel-Muigai&show_icons=true&theme=radical" alt="Samwel's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samwel-Muigai&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: [muigaisamwel17@gmail.com](mailto:muigaisamwel17@gmail.com)
+- 💼 LinkedIn: [Samwel-Muigai](https://linkedin.com/in/Samwel-Muigai)
+- 🐙 GitHub: [Samwel-Muigai](https://github.com/Samwel-Muigai)
+
+---
+
+### ⚡ Fun Fact
+*“Data-driven decision making is the goal!”* – That’s not just a quote, it’s the principle behind every analysis I do.
+
+---
+
+<p align="center">💡 Always open to collaborate on data science and machine learning projects!</p>
