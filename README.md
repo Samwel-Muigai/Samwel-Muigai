@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00C4CC&height=250&section=header&text=SAMWEL%20MUIGAI%20KARIUKI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+
 🎓 **Data Science Student** at **KCA University**  
 📊 Passionate about turning raw data into actionable insights.  
 ✨ *"Data-driven decision making is the goal!"*
-
+</p>
 ---
 
 ## 🧰 Tech Stack & Tools
